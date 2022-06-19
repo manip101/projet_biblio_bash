@@ -1,0 +1,215 @@
+AG:Fri Jun 17 20:14:04 +01 2022:newgroup2
+EF:Fri Jun 17 20:25:14 +01 2022:adduser
+EF:Fri Jun 17 20:26:03 +01 2022:adduser
+EF:Fri Jun 17 20:26:26 +01 2022:adduser
+DG:Fri Jun 17 20:28:24 +01 2022:
+EF:Fri Jun 17 20:33:12 +01 2022:adduser
+DU:Fri Jun 17 20:52:35 +01 2022:newuser:
+AU:Fri Jun 17 20:58:48 +01 2022:psycho:$6$KSZeTkt6d8lxq2Js$za0sqKq2.KXMEb.RP40iUEYINoAg0hOlMnsDCDrhVxEH2sAYHgy86utjDAgOJ4LNydcUrYwbHJGlPREpPquEB/:19063:0:99999:7:::::!(Group-exists)
+AU:Fri Jun 17 21:03:52 +01 2022:psycho:$6$KSZeTkt6d8lxq2Js$za0sqKq2.KXMEb.RP40iUEYINoAg0hOlMnsDCDrhVxEH2sAYHgy86utjDAgOJ4LNydcUrYwbHJGlPREpPquEB/:19063:0:99999:7:::::!(Group-exists)
+AU:Fri Jun 17 21:09:16 +01 2022:psycho:$6$KSZeTkt6d8lxq2Js$za0sqKq2.KXMEb.RP40iUEYINoAg0hOlMnsDCDrhVxEH2sAYHgy86utjDAgOJ4LNydcUrYwbHJGlPREpPquEB/:19063:0:99999:7:::::!(Group-exists)
+AU:Fri Jun 17 21:12:33 +01 2022:psycho:$6$KSZeTkt6d8lxq2Js$za0sqKq2.KXMEb.RP40iUEYINoAg0hOlMnsDCDrhVxEH2sAYHgy86utjDAgOJ4LNydcUrYwbHJGlPREpPquEB/:19063:0:99999:7:::::!(Group-exists)
+AU:Fri Jun 17 21:14:57 +01 2022:psycho3:root
+DU:Fri Jun 17 21:16:31 +01 2022:psycho3:
+AU:Fri Jun 17 21:17:05 +01 2022:psycho3:root
+AU:Fri Jun 17 21:20:17 +01 2022:psycho4:root
+DU:Fri Jun 17 21:20:25 +01 2022:psycho4:root
+DG:Fri Jun 17 21:20:42 +01 2022:
+AU:Fri Jun 17 21:32:34 +01 2022:kali1:psycho
+AU:Fri Jun 17 21:32:35 +01 2022:kali2:psycho
+DU:Fri Jun 17 21:35:41 +01 2022:kali1:
+DU:Fri Jun 17 21:35:42 +01 2022:kali2:
+AU:Fri Jun 17 21:41:01 +01 2022:kali5:psycho
+DU:Fri Jun 17 21:41:06 +01 2022:kali5:psycho
+AG:Fri Jun 17 21:50:21 +01 2022:lastgroup
+AU:Fri Jun 17 21:50:30 +01 2022:kali5:lastgroup
+AU:Fri Jun 17 21:50:39 +01 2022:kali6:lastgroup
+DG:Fri Jun 17 21:50:59 +01 2022:
+DG:Fri Jun 17 21:51:45 +01 2022:
+DG:Fri Jun 17 21:53:14 +01 2022:
+DG:Fri Jun 17 21:53:27 +01 2022:
+AG:Fri Jun 17 21:56:17 +01 2022:newgroup
+AU:Fri Jun 17 21:56:27 +01 2022:kali10:newgroup
+AU:Fri Jun 17 21:56:32 +01 2022:kali11:newgroup
+DG:Fri Jun 17 21:56:59 +01 2022:temp
+AU:Sat Jun 18 01:15:21 +01 2022:random1:root
+AG:Sat Jun 18 01:15:30 +01 2022:
+AG:Sat Jun 18 01:15:45 +01 2022:
+AG:Sat Jun 18 01:16:51 +01 2022:addgroup
+AU:Sat Jun 18 01:32:59 +01 2022:kali7:root
+AU:Sat Jun 18 01:33:33 +01 2022:kali1::User-exists
+AU:Sat Jun 18 01:33:34 +01 2022:kali2::!(Group-exists)
+AU:Sat Jun 18 01:33:35 +01 2022:kali3::!(Group-exists)
+AU:Sat Jun 18 01:33:35 +01 2022:kali4::!(Group-exists)
+AU:Sat Jun 18 01:34:04 +01 2022:kali10::User-exists
+AU:Sat Jun 18 01:34:05 +01 2022:kali23::!(Group-exists)
+AU:Sat Jun 18 01:34:06 +01 2022:kali31::!(Group-exists)
+AU:Sat Jun 18 01:34:06 +01 2022:kali44::!(Group-exists)
+AU:Sat Jun 18 01:37:29 +01 2022:kali10::User-exists
+AU:Sat Jun 18 01:37:29 +01 2022:kali23::!(Group-exists)
+AU:Sat Jun 18 01:37:29 +01 2022:kali31::!(Group-exists)
+AU:Sat Jun 18 01:37:30 +01 2022:kali44::!(Group-exists)
+EF:Sat Jun 18 01:41:02 +01 2022:newuser33
+AU:Sat Jun 18 01:41:10 +01 2022:newuser33:root
+EF:Sat Jun 18 01:43:20 +01 2022:users.csvc
+AU:Sat Jun 18 02:17:05 +01 2022:user21312:root
+AU:Sat Jun 18 02:40:16 +01 2022:kalix10:root
+AU:Sat Jun 18 02:40:17 +01 2022:kalix23::!(Group-exists)
+AU:Sat Jun 18 02:40:18 +01 2022:kalix31:te
+AU:Sat Jun 18 02:40:19 +01 2022:kalix44:root
+AU:Sat Jun 18 02:41:15 +01 2022:kalix10::User-exists
+AU:Sat Jun 18 02:41:16 +01 2022:kalix23::!(Group-exists)
+AU:Sat Jun 18 02:41:16 +01 2022:kalix31::User-exists
+AU:Sat Jun 18 02:41:17 +01 2022:kalix44::User-exists
+AU:Sat Jun 18 02:41:59 +01 2022:kalix10::User-exists
+AU:Sat Jun 18 02:41:59 +01 2022:kalix23::!(Group-exists)
+AU:Sat Jun 18 02:42:00 +01 2022:kalix31::User-exists
+AU:Sat Jun 18 02:42:00 +01 2022:kalix44::User-exists
+AU:Sat Jun 18 02:42:33 +01 2022:kalixy23::!(Group-exists)
+AU:Sat Jun 18 02:45:14 +01 2022:kalixy10:root
+AU:Sat Jun 18 02:45:15 +01 2022:kalixy31:te
+AU:Sat Jun 18 02:45:16 +01 2022:kalixy44:root
+AU:Sat 18 Jun 2022 03:55:16 AM +01:::No-user
+AU:Sat 18 Jun 2022 03:55:16 AM +01:::No-user
+AU:Sat 18 Jun 2022 03:57:19 AM +01:kali1:root
+AU:Sat 18 Jun 2022 03:57:19 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 03:57:53 AM +01:kali1:root
+AU:Sat 18 Jun 2022 03:57:53 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 03:58:05 AM +01:kali1:root
+AU:Sat 18 Jun 2022 03:58:05 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:00:39 AM +01:kali1:root
+AU:Sat 18 Jun 2022 04:00:39 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:02:27 AM +01:kali1:root
+AU:Sat 18 Jun 2022 04:02:28 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:03:25 AM +01:kali1:root
+AU:Sat 18 Jun 2022 04:03:26 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:06:38 AM +01:kali1:root
+AU:Sat 18 Jun 2022 04:06:38 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:09:53 AM +01:kali1:root
+AU:Sat 18 Jun 2022 04:09:54 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:11:12 AM +01:kali1:root
+AU:Sat 18 Jun 2022 04:11:12 AM +01:kali2::!(Group-exists)
+AU:Sat 18 Jun 2022 04:11:47 AM +01:kali1::User-exists
+AU:Sat 18 Jun 2022 04:11:48 AM +01:kali2::!(Group-exists)
+AG:Sat 18 Jun 2022 04:12:50 AM +01:group1
+AG:Sat 18 Jun 2022 04:16:36 AM +01:group2
+DG:Sat 18 Jun 2022 04:17:38 AM +01:group2
+DG:Sat 18 Jun 2022 04:18:03 AM +01:group1
+EF:Sat 18 Jun 2022 04:21:22 AM +01:user4
+EF:Sat 18 Jun 2022 04:21:47 AM +01:kali1
+EF:Sat 18 Jun 2022 04:24:51 AM +01:kali1
+DU:Sat 18 Jun 2022 04:35:00 AM +01:kali1:
+AU:Sat 18 Jun 2022 04:35:25 AM +01:user5:root
+EF:Sat 18 Jun 2022 04:35:30 AM +01:user5
+DU:Sat 18 Jun 2022 04:35:49 AM +01:user4:
+DU:Sat 18 Jun 2022 04:37:13 AM +01:user5:
+AG:Sat 18 Jun 2022 04:37:51 AM +01:group1
+AU:Sat 18 Jun 2022 04:37:57 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:37:58 AM +01:kali2:group1
+DG:Sat 18 Jun 2022 04:39:42 AM +01:group1
+AG:Sat 18 Jun 2022 04:40:36 AM +01:group1
+DU:Sat 18 Jun 2022 04:42:14 AM +01:kali1:
+DU:Sat 18 Jun 2022 04:42:15 AM +01:kali2:
+DG:Sat 18 Jun 2022 04:42:15 AM +01:
+AG:Sat 18 Jun 2022 04:43:39 AM +01:group1
+DG:Sat 18 Jun 2022 04:43:43 AM +01:group1
+AG:Sat 18 Jun 2022 04:43:47 AM +01:group1
+AU:Sat 18 Jun 2022 04:43:52 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:43:52 AM +01:kali2:group1
+DG:Sat 18 Jun 2022 04:43:59 AM +01:group1
+AU:Sat 18 Jun 2022 04:44:38 AM +01:kali1::!(Group-exists)
+AU:Sat 18 Jun 2022 04:44:38 AM +01:kali2::!(Group-exists)
+AG:Sat 18 Jun 2022 04:45:07 AM +01:group1
+AU:Sat 18 Jun 2022 04:45:11 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:45:12 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:46:15 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:46:15 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:46:56 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:46:57 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:47:27 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:47:28 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:48:23 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:48:24 AM +01:kali2:group1
+DU:Sat 18 Jun 2022 04:50:03 AM +01:kali1:
+DU:Sat 18 Jun 2022 04:50:03 AM +01:kali2:
+AU:Sat 18 Jun 2022 04:52:48 AM +01:kali1:group1
+DU:Sat 18 Jun 2022 04:53:08 AM +01:kali1:
+AU:Sat 18 Jun 2022 04:53:13 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:53:13 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:53:58 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:53:59 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:54:32 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:54:32 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 04:58:50 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 04:58:51 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:00:59 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 05:00:59 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:01:51 AM +01:user4:
+AU:Sat 18 Jun 2022 05:01:52 AM +01:user4:
+EF:Sat 18 Jun 2022 05:07:01 AM +01:users.csvc
+AU:Sat 18 Jun 2022 05:07:05 AM +01:user4:
+AU:Sat 18 Jun 2022 05:07:06 AM +01:user4:
+AU:Sat 18 Jun 2022 05:08:18 AM +01::
+AU:Sat 18 Jun 2022 05:08:19 AM +01::
+AU:Sat 18 Jun 2022 05:10:15 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 05:10:15 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:13:13 AM +01:users.csv::No-pass
+AU:Sat 18 Jun 2022 05:13:14 AM +01:users.csv::No-pass
+AU:Sat 18 Jun 2022 05:14:34 AM +01:users.csv::No-pass
+AU:Sat 18 Jun 2022 05:14:35 AM +01:users.csv::No-pass
+AU:Sat 18 Jun 2022 05:15:14 AM +01:group1::!(Group-exists)
+AU:Sat 18 Jun 2022 05:15:14 AM +01:group1::!(Group-exists)
+AU:Sat 18 Jun 2022 05:15:48 AM +01:group1::No-group
+AU:Sat 18 Jun 2022 05:15:49 AM +01:group1::No-group
+AU:Sat 18 Jun 2022 05:16:04 AM +01:group1::!(Group-exists)
+AU:Sat 18 Jun 2022 05:16:05 AM +01:group1::!(Group-exists)
+AU:Sat 18 Jun 2022 05:16:40 AM +01:group1::!(Group-exists)
+AU:Sat 18 Jun 2022 05:17:35 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 05:17:36 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:36:22 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 05:36:22 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:46:24 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 05:46:25 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:53:40 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 05:53:41 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 05:55:52 AM +01:user4::No-group
+AU:Sat 18 Jun 2022 05:55:52 AM +01:user4::No-group
+AU:Sat 18 Jun 2022 05:59:34 AM +01:user4:
+AU:Sat 18 Jun 2022 06:00:15 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 06:00:48 AM +01:kali1::User-exists
+AU:Sat 18 Jun 2022 06:00:48 AM +01:kali2::User-exists
+DU:Sat 18 Jun 2022 06:00:56 AM +01:kali1:
+DU:Sat 18 Jun 2022 06:01:00 AM +01:kali2:
+AU:Sat 18 Jun 2022 06:01:04 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 06:01:05 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 06:04:42 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 06:04:44 AM +01:kali2:group1
+DU:Sat 18 Jun 2022 06:05:04 AM +01:kali1:
+DU:Sat 18 Jun 2022 06:05:08 AM +01:kali2:
+AU:Sat 18 Jun 2022 06:05:12 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 06:05:13 AM +01:kali2:group1
+AU:Sat 18 Jun 2022 06:06:26 AM +01:kali1::User-exists
+AU:Sat 18 Jun 2022 06:06:26 AM +01:kali2::User-exists
+DU:Sat 18 Jun 2022 06:06:35 AM +01:kali1:
+DU:Sat 18 Jun 2022 06:06:38 AM +01:kali2:
+AU:Sat 18 Jun 2022 06:07:09 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 06:07:10 AM +01:kali2:group1
+DU:Sat 18 Jun 2022 06:07:49 AM +01:kali1:
+DU:Sat 18 Jun 2022 06:07:53 AM +01:kali2:
+AU:Sat 18 Jun 2022 06:07:57 AM +01:kali1:group1
+AU:Sat 18 Jun 2022 06:07:58 AM +01:kali2:group1
+DU:Sat 18 Jun 2022 03:46:25 PM +01:kali1:
+DU:Sat 18 Jun 2022 03:46:32 PM +01:kali2:
+AU:Sat 18 Jun 2022 03:48:38 PM +01:kali1:group1
+AU:Sat 18 Jun 2022 03:48:39 PM +01:kali2:group1
+DU:Sat 18 Jun 2022 03:56:32 PM +01:kali1:
+DU:Sat 18 Jun 2022 03:56:38 PM +01:kali2:
+AU:Sat 18 Jun 2022 03:56:41 PM +01:kali1:group1
+AU:Sat 18 Jun 2022 03:56:42 PM +01:kali2:group1
+AU:Sat 18 Jun 2022 03:56:49 PM +01:kali1::User-exists
+AU:Sat 18 Jun 2022 03:56:49 PM +01:kali2::User-exists
+DU:Sat 18 Jun 2022 03:58:36 PM +01:kali1:
+DU:Sat 18 Jun 2022 03:58:37 PM +01:kali2:
+DG:Sat 18 Jun 2022 03:58:37 PM +01:
+AG:Sat 18 Jun 2022 04:15:30 PM +01:group1
+AU:Sat 18 Jun 2022 04:15:37 PM +01:kali1:group1
